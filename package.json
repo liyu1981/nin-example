@@ -1,0 +1,21 @@
+{
+  "name": "nin-example",
+  "version": "0.1.0",
+  "description": "An example pkg for demostration of nin.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:liyu1981/nin-example.git"
+  },
+  "keywords": [
+    "nin"
+  ],
+  "author": "LI, Yu",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/liyu1981/nin-example/issues"
+  },
+  "dependencies": {
+    "rask": "git://github.com/liyu1981/rask.git"
+  }
+}
