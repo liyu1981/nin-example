@@ -17,5 +17,9 @@
   },
   "dependencies": {
     "rask": "git://github.com/liyu1981/rask.git"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.5.0"
   }
 }

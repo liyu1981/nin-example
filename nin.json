@@ -1,6 +1,10 @@
 {
   "setup": [
     {
+      "type": "grunt",
+      "content": "Gruntfile.js"
+    },
+    {
       "type": "bash",
       "content": "op/setup.sh"
     }
