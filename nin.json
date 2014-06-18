@@ -11,14 +11,14 @@
   ],
   "start": [
     {
-      "type": "bash",
-      "content": "op/start.sh"
+      "type": "forever",
+      "content": "index.js"
     }
   ],
   "stop": [
     {
-      "type": "bash",
-      "content": "op/stop.sh"
+      "type": "forever",
+      "content": "index.js"
     }
   ]
 }
